@@ -1,1 +1,2 @@
-# colaborador-3B-ANH
+# Este repositório está compartilhado com:
+## Giovanna
